@@ -1,6 +1,6 @@
 # Invoice-Management
 
-- [Live Link](https://beam-dynamics-frontend.vercel.app/)
+- [Live Link]()
 
 ## Local Development
 
